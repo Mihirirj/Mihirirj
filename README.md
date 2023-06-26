@@ -1,4 +1,4 @@
-[![MasterHead](https://img.pikbest.com/backgrounds/20190610/gif-creative-technology-earth-dynamic-geometric-dynamic-background_2757300.jpg!bwr800)]
+![MasterHead](https://img.pikbest.com/backgrounds/20190610/gif-creative-technology-earth-dynamic-geometric-dynamic-background_2757300.jpg!bwr800)
 
 <h1 align="center">Hi 👋, I'm Mihiri Jayasena</h1>
 <h3 align="center">A passionate undergraduate in software engineering from Srilanka</h3>

@@ -1,3 +1,14 @@
+ <h1 align="center">Hi 👋, I'm Mihiri Jayasena</h1>
+<h3 align="center">A passionate undergraduate in software engineering from Srilanka</h3>
+
+- 📝 I regularly write articles on [https://medium.com/@rashinikajayasena](https://medium.com/@rashinikajayasena)
+
+- 📫 How to reach me **rashinikajayasena@gamil.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mihiri jayasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihiri jayasena" height="30" width="40" /></a>
+<a href="https://medium.com/mihiri jayasena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mihiri jayasena" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rashinikajayase1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rashinikajayase1" height="30" width="40" /></a>
 </p>
 

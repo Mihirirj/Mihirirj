@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rashinikajayasena](https://medium.com/@rashinikajayasena)
 
-- 📫 How to reach me **rashinikajayasena@gamil.com**
+- 📫 How to reach me **rashinikajayasena@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

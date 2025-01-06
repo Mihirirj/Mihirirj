@@ -2,9 +2,16 @@
 <h1 align="center">Hi 👋, I'm Mihiri Jayasena</h1>
 <h3 align="center">A passionate undergraduate in software engineering from Srilanka</h3>
 
+-🎓 I am a final-year undergraduate pursuing a BSc (Hons) in Information Technology at the University of Moratuwa.
+-🌱 I successfully completed a 6-month Software Engineering internship , where I gained valuable experience in developing real-world software solutions.
+-👩‍💻 I’m seeking Associate Software Engineer/ Software Engineer roles to enhance my skills and collaborate in dynamic teams.
+
+
 - 📝 I regularly write articles on [https://medium.com/@rashinikajayasena](https://medium.com/@rashinikajayasena)
 
 - 📫 How to reach me **rashinikajayasena@gmail.com**
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mihiri Jayasena</h1>
 <h3 align="center">A passionate undergraduate in software engineering from Srilanka</h3>
 
--🎓 I am a final-year undergraduate pursuing a BSc (Hons) in Information Technology at the University of Moratuwa.
+-🎓 I am a final-year undergraduate pursuing a BSc (Hons) in Information Technology and Management at the University of Moratuwa.
 
 -🌱 I successfully completed a 6-month Software Engineering internship.
 

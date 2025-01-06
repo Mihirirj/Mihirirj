@@ -3,7 +3,9 @@
 <h3 align="center">A passionate undergraduate in software engineering from Srilanka</h3>
 
 -🎓 I am a final-year undergraduate pursuing a BSc (Hons) in Information Technology at the University of Moratuwa.
--🌱 I successfully completed a 6-month Software Engineering internship , where I gained valuable experience in developing real-world software solutions.
+
+-🌱 I successfully completed a 6-month Software Engineering internship.
+
 -👩‍💻 I’m seeking Associate Software Engineer/ Software Engineer roles to enhance my skills and collaborate in dynamic teams.
 
 

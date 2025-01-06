@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&width=450&lines=Hello+there%2C+I'm+Mihiri+Jayasena+%F0%9F%91%8B;from+Sri+Lanka+%F0%9F%98%8A;Seeking+to+develop+captivating+open-source+projects+%F0%9F%91%80)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mihiri Jayasena</h1>
-<h1 align="center">Hi 👋, I'm Mihiri Jayasena</h1>
+
 <h3 align="center">A passionate undergraduate in software engineering from Srilanka</h3>
 
 -🎓 I am a final-year undergraduate pursuing a BSc (Hons) in Information Technology and Management at the University of Moratuwa.

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQj1Zq1bO0zO/giphy.gif" width="300" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/l0MYwONz0Qp1w6eIg/giphy.gif" width="250" alt="Creative Coding" />
 </p>
 
 <h1 align="center">Hey there! 👋 I'm Mihiri Jayasena</h1>
@@ -50,7 +50,7 @@
 </p>
 
 <p align="right">
-    <img src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" alt="coding" width="300">
+    <img src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" alt="coding" width="300" style="margin-top: -20px;">
 </p>
 
 <br><br>

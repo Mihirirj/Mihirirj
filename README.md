@@ -25,5 +25,5 @@
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mihirirj&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Sakya" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mihirirj&show_icons=true&locale=en&theme=chartreuse-dark" alt="Sakya" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mihirirj&show_icons=true&locale=en&theme=chartreuse-dark" alt="" width="410"/>
 </p>

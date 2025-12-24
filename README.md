@@ -24,7 +24,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihirij&show_icons=true&theme=chartreuse-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirij&layout=compact&theme=chartreuse-dark)
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mihirirj&show_icons=true&theme=chartreuse-dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihirirj&layout=compact&theme=chartreuse-dark) |
 
 

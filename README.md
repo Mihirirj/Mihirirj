@@ -21,9 +21,7 @@
 </p>
 
 ---
-## 📅 Contribution Calendar
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Mihirirj&theme=react-dark&hide_border=true)
 
 ## 🛠️ Top Languages
 
@@ -32,4 +30,11 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Commits](https://img.shields.io/github/commit-activity/m/Mihirirj?style=for-the-badge&logo=github&label=Commits)
+![Pull Requests](https://img.shields.io/github/issues-pr/Mihirirj?style=for-the-badge&logo=github&label=PRs)
+![Issues](https://img.shields.io/github/issues/Mihirirj?style=for-the-badge&logo=github&label=Issues)
+
 

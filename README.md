@@ -22,8 +22,5 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mihirirj&theme=tokyonight)
-
-
+![Followers](https://img.shields.io/github/followers/Mihirirj?label=Followers&style=flat-square)
+![Public Repos](https://img.shields.io/github/repos/Mihirirj?style=flat-square)

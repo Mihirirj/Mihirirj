@@ -21,6 +21,15 @@
 </p>
 
 ---
+## 📅 Contribution Calendar
 
-![Followers](https://img.shields.io/github/followers/Mihirirj?label=Followers&style=flat-square)
-![Public Repos](https://img.shields.io/github/repos/Mihirirj?style=flat-square)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Mihirirj&theme=react-dark&hide_border=true)
+
+## 🛠️ Top Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+

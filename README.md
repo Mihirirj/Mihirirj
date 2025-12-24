@@ -31,10 +31,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 📊 GitHub Stats
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&width=500&lines=Learning+Python+%F0%9F%91%8D;Building+Mini+Projects+%F0%9F%92%BB;Sharing+Open-Source+%F0%9F%91%80)](https://git.io/typing-svg)
 
-![Commits](https://img.shields.io/github/commit-activity/m/Mihirirj?style=for-the-badge&logo=github&label=Commits)
-![Pull Requests](https://img.shields.io/github/issues-pr/Mihirirj?style=for-the-badge&logo=github&label=PRs)
-![Issues](https://img.shields.io/github/issues/Mihirirj?style=for-the-badge&logo=github&label=Issues)
+
 
 

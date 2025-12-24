@@ -26,19 +26,14 @@
 ## 🛠️ Most Used Languages
 
 <p align="left">
-  Python &nbsp;
-  <img src="https://progress-bar.dev/35/?color=blue&title=Python" width="100" alt="Python"> <br>
-  Java &nbsp;
-  <img src="https://progress-bar.dev/20/?color=red&title=Java" width="100" alt="Java"> <br>
-  C &nbsp;
-  <img src="https://progress-bar.dev/15/?color=00599C&title=C" width="100" alt="C"> <br>
-  JavaScript &nbsp;
-  <img src="https://progress-bar.dev/10/?color=yellow&title=JS" width="100" alt="JavaScript"> <br>
-  HTML &nbsp;
-  <img src="https://progress-bar.dev/10/?color=orange&title=HTML" width="100" alt="HTML"> <br>
-  CSS &nbsp;
-  <img src="https://progress-bar.dev/10/?color=blue&title=CSS" width="100" alt="CSS"> <br>
+  <img src="https://img.shields.io/badge/Python-35%25-blue?style=flat-square&logo=python&logoColor=white&labelColor=0A192F" height="25"/>
+  <img src="https://img.shields.io/badge/Java-20%25-red?style=flat-square&logo=java&logoColor=white&labelColor=0A192F" height="25"/>
+  <img src="https://img.shields.io/badge/C-15%25-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0A192F" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-10%25-yellow?style=flat-square&logo=javascript&logoColor=black&labelColor=0A192F" height="25"/>
+  <img src="https://img.shields.io/badge/HTML-10%25-orange?style=flat-square&logo=html5&logoColor=white&labelColor=0A192F" height="25"/>
+  <img src="https://img.shields.io/badge/CSS-10%25-blue?style=flat-square&logo=css3&logoColor=white&labelColor=0A192F" height="25"/>
 </p>
+
 
 
 

@@ -27,3 +27,19 @@
 </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mihirirj&show_icons=true&locale=en&theme=chartreuse-dark" alt="" width="410"/>
 </p>
+
+## 📊 Most Used Languages Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---

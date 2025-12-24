@@ -22,10 +22,8 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mihirirj&show_icons=true&theme=chartreuse-dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihirirj&layout=compact&theme=chartreuse-dark) |
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mihirirj&theme=tokyonight)
 
 

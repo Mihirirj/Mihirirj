@@ -25,12 +25,16 @@
 
 ## 🛠️ Most Used Languages
 
+## 🛠️ Most Used Languages
+
 | Language    | Usage |
 |------------|-------|
-| Python     | ![Python](https://img.shields.io/badge/Python-45%25-blue?style=for-the-badge&logo=python&logoColor=white) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-25%25-yellow?style=for-the-badge&logo=javascript&logoColor=black) |
-| HTML       | ![HTML](https://img.shields.io/badge/HTML-15%25-orange?style=for-the-badge&logo=html5&logoColor=white) |
-| CSS        | ![CSS](https://img.shields.io/badge/CSS-15%25-blue?style=for-the-badge&logo=css3&logoColor=white) |
+| Python     | ![Python](https://img.shields.io/badge/Python-35%25-blue?style=for-the-badge&logo=python&logoColor=white) |
+| Java       | ![Java](https://img.shields.io/badge/Java-20%25-red?style=for-the-badge&logo=java&logoColor=white) |
+| C          | ![C](https://img.shields.io/badge/C-15%25-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge&logo=javascript&logoColor=black) |
+| HTML       | ![HTML](https://img.shields.io/badge/HTML-10%25-orange?style=for-the-badge&logo=html5&logoColor=white) |
+| CSS        | ![CSS](https://img.shields.io/badge/CSS-10%25-blue?style=for-the-badge&logo=css3&logoColor=white) |
 
 
 

@@ -33,16 +33,7 @@
   <img src="https://img.shields.io/badge/HTML-10%25-orange?style=flat-square&logo=html5&logoColor=white&labelColor=0A192F" height="25"/>
   <img src="https://img.shields.io/badge/CSS-10%25-blue?style=flat-square&logo=css3&logoColor=white&labelColor=0A192F" height="25"/>
 </p>
-## 🛠️ Most Used Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-35%25-blue?style=flat-square&logo=python&logoColor=white&labelColor=0A192F" height="25"/>
-  <img src="https://img.shields.io/badge/Java-20%25-red?style=flat-square&logo=java&logoColor=white&labelColor=0A192F" height="25"/>
-  <img src="https://img.shields.io/badge/C-15%25-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0A192F" height="25"/>
-  <img src="https://img.shields.io/badge/JavaScript-10%25-yellow?style=flat-square&logo=javascript&logoColor=black&labelColor=0A192F" height="25"/>
-  <img src="https://img.shields.io/badge/HTML-10%25-orange?style=flat-square&logo=html5&logoColor=white&labelColor=0A192F" height="25"/>
-  <img src="https://img.shields.io/badge/CSS-10%25-blue?style=flat-square&logo=css3&logoColor=white&labelColor=0A192F" height="25"/>
-</p>
 
 
 
